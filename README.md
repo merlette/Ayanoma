@@ -1,6 +1,6 @@
 # RealityAmendment (现实修正)
 
-[![Unity 2022 LTS](https://img.shields.io/badge/unity-2022.3.22f1-blue)](https://unity3d.com/unity/lts/2022)
+[![Unity 2022 LTS](https://img.shields.io/badge/unity-2022.3.22f1-blue)](https://unity.com/releases/editor/whats-new/2022.3.21#release-notes)
 [![语言](https://img.shields.io/badge/语言-中文%2F英文-yellow)](https://github.com/merlette/Ayanoma)
 [![GitHub License](https://img.shields.io/github/license/merlette/Ayanoma)](https://github.com/merlette/Ayanoma/blob/main/LICENSE)
 
