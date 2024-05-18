@@ -2,7 +2,7 @@
 
 [![Unity 2022 LTS](https://img.shields.io/badge/unity-2022.3.22f1-blue)](https://unity3d.com/unity/lts/2022)
 [![语言](https://img.shields.io/badge/语言-中文%2F英文-yellow)](https://github.com/merlette/Ayanoma)
-[![GitHub License](https://img.shields.io/github/license/yourusername/Realitymendment)](https://github.com/merlette/Ayanoma/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/merlette/Ayanoma)](https://github.com/merlette/Ayanoma/blob/main/LICENSE)
 
 - - -
 ## 剧情简介
