@@ -1,8 +1,13 @@
 # RealityAmendment (现实修正)
 
 [![Unity 2022 LTS](https://img.shields.io/badge/unity-2022.3.22f1-blue)](https://unity3d.com/unity/lts/2022)
+<<<<<<< HEAD
 [![语言](https://img.shields.io/badge/语言-中文%2F英文-yellow)](https://github.com/merlette/Ayanoma)
 [![GitHub License](https://img.shields.io/github/license/merlette/Ayanoma)](https://github.com/merlette/Ayanoma/blob/main/LICENSE)
+=======
+[![语言](https://img.shields.io/badge/语言-中文%2F英文-yellow)](https://github.com/merlette/Ayanome)
+[![GitHub License](https://img.shields.io/github/license/yourusername/Realitymendment)](https://github.com/merlette/Ayanome/blob/main/LICENSE)
+>>>>>>> parent of 54e8b2b (README Fix1)
 
 - - -
 ## 剧情简介
@@ -53,4 +58,4 @@
 
 ## 许可证
 
-本项目采用 [MIT License](https://github.com/merlette/Ayanoma/blob/main/LICENSE) 许可证开源。
+本项目采用 [MIT License](https://github.com/merlette/Ayanome/blob/main/LICENSE) 许可证开源。
